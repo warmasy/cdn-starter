@@ -3,7 +3,7 @@
 #### Address & Root dir
 host = "::"
 port = 8080
-root = "/public"
+root = "/"
 
 #### Logging
 log-level = "error"
