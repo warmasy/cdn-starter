@@ -7,7 +7,7 @@ description = "CDN starter"
 "wasmer/static-web-server" = "1"
 
 [fs]
-public = "public"
+public = "."
 settings = "settings"
 
 [[command]]
